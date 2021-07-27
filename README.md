@@ -1,4 +1,4 @@
-# Zero Config [PWA](https://developers.google.com/web/progressive-web-apps/) Plugin for [Next.js](https://nextjs.org/)
+# 서버구축하기 [Next.js](https://nextjs.org/)
 
 This plugin is powered by [workbox](https://developers.google.com/web/tools/workbox/) and other good stuff.
 
